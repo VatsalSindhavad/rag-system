@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is gradient descent?",
+        "expected_document": "deep_learning.pdf"
+    },
+    {
+        "question": "What is backpropagation?",
+        "expected_document": "deep_learning.pdf"
+    },
+    {
+        "question": "What is stochastic gradient descent?",
+        "expected_document": "nlp_foundations.pdf"
+    },
+    {
+        "question": "What is overfitting?",
+        "expected_document": "ml_introduction.pdf"
+    },
+    {
+        "question": "What is a neural network?",
+        "expected_document": "neural_network_methods.pdf"
+    }
+]
